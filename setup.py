@@ -9,7 +9,7 @@ import os
 
 setup(
     name='pyutu',
-    version=open(os.path.join('pyutu', '_version')).read().strip(),
+    version='0.4.2',
     url='https://github.com/lashex/pyutu',
     license=open("LICENSE").read(),
     author='Brett Francis',
